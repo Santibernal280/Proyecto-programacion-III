@@ -1,0 +1,23 @@
+[
+    {
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "anio": 2023,
+      "color": "Blanco",
+      "precio": 20000
+    },
+    {
+      "marca": "Honda",
+      "modelo": "Civic",
+      "anio": 2022,
+      "color": "Negro",
+      "precio": 22000
+    },
+    {
+      "marca": "Tesla",
+      "modelo": "Model 3",
+      "anio": 2013,
+      "color": "Rojo",
+      "precio": 35000
+    }
+  ]
